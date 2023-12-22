@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NewTooDudes/static/css/main.2fa93801.css",
+    "main.js": "/NewTooDudes/static/js/main.e767acb8.js",
+    "static/js/787.165922fa.chunk.js": "/NewTooDudes/static/js/787.165922fa.chunk.js",
+    "static/media/Too dudes img.webp": "/NewTooDudes/static/media/Too dudes img.1b5d0d4b9356a4305e66.webp",
+    "static/media/2dudes Logo.png": "/NewTooDudes/static/media/2dudes Logo.f388a44143f73c2b7f41.png",
+    "index.html": "/NewTooDudes/index.html",
+    "main.2fa93801.css.map": "/NewTooDudes/static/css/main.2fa93801.css.map",
+    "main.e767acb8.js.map": "/NewTooDudes/static/js/main.e767acb8.js.map",
+    "787.165922fa.chunk.js.map": "/NewTooDudes/static/js/787.165922fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa93801.css",
+    "static/js/main.e767acb8.js"
+  ]
+}
